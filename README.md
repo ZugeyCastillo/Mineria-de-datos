@@ -10,3 +10,4 @@ Portafolio de actividades
 [Resúmenes técnicas](https://github.com/ZugeyCastillo/Mineria-de-datos/blob/master/Resumenes_1676950.pdf)  
 [Ejercicios básicos BD](https://github.com/ZugeyCastillo/Mineria-de-datos/blob/master/An%C3%A1lisisBD_1676950.pdf)  
 [Ejercicios básicos Python](https://github.com/ZugeyCastillo/Mineria-de-datos/blob/master/PythonBasico_1676950.ipynb)
+
