@@ -9,4 +9,4 @@ Portafolio de actividades
 [Mapa mental 2](https://github.com/ZugeyCastillo/Mineria-de-datos/blob/master/MapaMental_2_1676950.pdf)  
 [Resúmenes técnicas](https://github.com/ZugeyCastillo/Mineria-de-datos/blob/master/Resumenes_1676950.pdf)  
 [Ejercicios básicos BD](https://github.com/ZugeyCastillo/Mineria-de-datos/blob/master/An%C3%A1lisisBD_1676950.pdf)  
-[Ejercicios básicos python](https://github.com/ZugeyCastillo/Mineria-de-datos/blob/master/PythonBasico_1676950.ipynb)
+[Ejercicios básicos Python](https://github.com/ZugeyCastillo/Mineria-de-datos/blob/master/PythonBasico_1676950.ipynb)
