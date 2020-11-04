@@ -15,4 +15,6 @@ Fase 2
 
 [Ejercicios básicos BD](https://github.com/ZugeyCastillo/Mineria-de-datos/blob/master/An%C3%A1lisisBD_1676950.pdf)  
 [Ejercicios básicos Python](https://github.com/ZugeyCastillo/Mineria-de-datos/blob/master/PythonBasico_1676950.ipynb)  
-[Avance 1 - PIA](https://github.com/PatriciaGarciaO/Mineria_de_Datos/blob/master/Avance1-PIA_Equipo9_003.pdf)
+[Avance 1 - PIA](https://github.com/PatriciaGarciaO/Mineria_de_Datos/blob/master/Avance1-PIA_Equipo9_003.pdf)  
+
+Fase 3
