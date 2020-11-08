@@ -19,5 +19,5 @@ Fase 2
 
 Fase 3  
 
-[Practica 1 - Limpieza]  
+[Practica 1 - Limpieza](https://github.com/ZugeyCastillo/Mineria-de-datos/blob/master/TrabajandoBD1_1676950.ipynb)  
 [Practica 2 - Visualizacion](https://github.com/ZugeyCastillo/Mineria-de-datos/blob/master/TrabajandoBD2_1676950.ipynb)
