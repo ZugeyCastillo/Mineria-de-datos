@@ -23,4 +23,4 @@ Fase 3
 [Práctica 2 - Visualizacion](https://github.com/ZugeyCastillo/Mineria-de-datos/blob/master/TrabajandoBD2_1676950.ipynb)  
 [Avance 2 - PIA](https://github.com/ZugeyCastillo/Mineria-de-datos/blob/master/AvancePIA_ll_003_09.ipynb)  
 [PIA FINAL](https://github.com/ZugeyCastillo/Mineria-de-datos/blob/master/PIA_Final_003_Equipo09.ipynb)  
-[Póster](https://github.com/ZugeyCastillo/Mineria-de-datos/blob/master/Poster_Equipo09_Grupo003.pdf)  
+[Póster](https://github.com/ZugeyCastillo/Mineria-de-datos/blob/master/Poster_Equipo09_Grupo003.pdf)    
