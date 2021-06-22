@@ -1,4 +1,4 @@
-# Mineria-de-datos
+# Mineria de datos
 Portafolio de actividades
 
 Fase 1
